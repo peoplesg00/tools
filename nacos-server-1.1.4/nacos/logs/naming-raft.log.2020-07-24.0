@@ -1,0 +1,36 @@
+2020-07-24 12:21:41,801 INFO initializing Raft sub-system
+
+2020-07-24 12:21:41,801 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2020-07-24 12:21:41,805 INFO raft notifier started
+
+2020-07-24 12:21:41,852 INFO cache loaded, datum count: 0, current term: 0
+
+2020-07-24 12:21:41,852 INFO finish to load data from disk, cost: 51 ms.
+
+2020-07-24 12:21:41,854 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-07-24 12:21:41,676 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.161.1","key":"192.168.161.1:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-07-24 12:21:41,861 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.161.1","key":"192.168.161.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-07-24 12:21:42,003 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-07-24 12:21:47,443 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-07-24 12:21:52,419 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@user-provider
+
+2020-07-24 12:21:52,420 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@user-provider
+
+2020-07-24 12:21:55,406 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gateway-provider
+
+2020-07-24 12:21:56,440 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@nacos-consumer
+
+2020-07-24 12:21:56,651 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.161.1","key":"192.168.161.1:8849","lastRefTime":0,"lastRefTimeStr":"","servePort":8849,"site":"unknown","weight":1}]
+
+2020-07-24 12:21:56,651 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.161.1","key":"192.168.161.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-07-24 12:21:56,651 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.161.1","key":"192.168.161.1:8849","lastRefTime":0,"lastRefTimeStr":"","servePort":8849,"site":"unknown","weight":1}]
+
+2020-07-24 12:21:59,661 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.161.1","key":"192.168.161.1:8849","lastRefTime":0,"lastRefTimeStr":"","servePort":8849,"site":"unknown","weight":1}]
+

@@ -1,0 +1,22 @@
+2020-07-26 12:04:26,628 INFO [dump-all-ok] nacos-config-client-dev.yaml+DEFAULT_GROUP, 1589282394163, length=100, md5=e4bf901ed1760a4fbed01ea71867cb85
+
+2020-07-26 12:04:26,630 INFO [dump-all-ok] nacos-config-client-dev.yaml+DEV_GROUP, 1589282467417, length=95, md5=29627ccd651522f82b17502f7eaa9118
+
+2020-07-26 12:04:26,630 INFO [dump-all-ok] nacos-config-client-dev.yaml+TEST_GROUP, 1589282538187, length=95, md5=a85b927d2af896553204d0b12309d7e2
+
+2020-07-26 12:04:26,630 INFO [dump-all-ok] nacos-consumer-sentinel+DEFAULT_GROUP, 1595501273973, length=229, md5=a75670a0ad675e77b61e98521a7bc814
+
+2020-07-26 12:04:26,631 INFO [dump-all-ok] user-provider-dev.yaml+DEFAULT_GROUP, 1595665337357, length=1954, md5=84b2e557054cf2298708bf3b645d9b3f
+
+2020-07-26 12:04:26,632 INFO [dump-all-ok] nacos-consumer-dev.yaml+DEFAULT_GROUP, 1595665588063, length=797, md5=6859c8ac4a7de0b9478ea94eb9cd651e
+
+2020-07-26 12:04:26,632 INFO [dump-all-ok] gateway-provider-dev.yaml+DEFAULT_GROUP, 1595666141551, length=981, md5=409af9076687b6a31650050593ff2f5c
+
+2020-07-26 15:09:03,918 WARN [dump-ignore] ignore to save cache file. groupKey=public-provider-dev.yaml+DEFAULT_GROUP, md5=e75259ccc513b8e00718a99b65766843, lastModifiedOld=1595747336653, lastModifiedNew=1595747343815
+
+2020-07-26 16:08:58,773 WARN [dump-ignore] ignore to save cache file. groupKey=gateway-provider-dev.yaml+DEFAULT_GROUP, md5=e39ecbe2dabfd80e7ae23d17e53dccb9, lastModifiedOld=1595750845639, lastModifiedNew=1595750938662
+
+2020-07-26 16:37:05,200 WARN [dump-ignore] ignore to save cache file. groupKey=gateway-provider-dev.yaml+DEFAULT_GROUP, md5=25e000a3e94541a52988c4d37bec2f1d, lastModifiedOld=1595752618748, lastModifiedNew=1595752625158
+
+2020-07-26 18:44:15,840 WARN [dump-ignore] ignore to save cache file. groupKey=gateway-provider-dev.yaml+DEFAULT_GROUP, md5=25e000a3e94541a52988c4d37bec2f1d, lastModifiedOld=1595752618748, lastModifiedNew=1595760255810
+

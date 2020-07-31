@@ -1,0 +1,16 @@
+2020-07-31 17:16:03,660 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+
+2020-07-31 17:16:07,967 INFO DEFAULT_GROUP@@account-provider is changed, add it to push queue.
+
+2020-07-31 17:16:11,649 INFO DEFAULT_GROUP@@gateway-provider is changed, add it to push queue.
+
+2020-07-31 17:16:17,283 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-07-31 17:16:38,273 INFO DEFAULT_GROUP@@account-provider is changed, add it to push queue.
+
+2020-07-31 17:16:38,863 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-07-31 17:16:39,502 INFO DEFAULT_GROUP@@gateway-provider is changed, add it to push queue.
+
+2020-07-31 17:16:40,071 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+

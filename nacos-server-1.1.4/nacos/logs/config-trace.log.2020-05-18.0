@@ -1,0 +1,12 @@
+2020-05-18 16:51:32,578|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589791892499|192.168.161.1|persist|pub|-1|fccfc83e9ceb344124d0b36598b6dde1
+2020-05-18 16:51:32,649|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589791892499|192.168.161.1|notify|ok|113|192.168.161.1:8848
+2020-05-18 16:51:32,668|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589791892499|192.168.161.1|dump|ok|169|175
+2020-05-18 16:59:11,779|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589792351346|192.168.161.1|persist|pub|-1|7bb04b166208c56e2f1adc615e822635
+2020-05-18 16:59:11,787|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589792351346|192.168.161.1|notify|ok|440|192.168.161.1:8848
+2020-05-18 16:59:11,814|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589792351346|192.168.161.1|dump|ok|468|217
+2020-05-18 17:00:59,860|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589792459844|192.168.161.1|persist|pub|-1|4565a128218e389b423b06f29dc206b9
+2020-05-18 17:00:59,865|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589792459844|192.168.161.1|notify|ok|20|192.168.161.1:8848
+2020-05-18 17:00:59,871|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589792459844|192.168.161.1|dump|ok|27|217
+2020-05-18 17:06:32,887|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589792792873|192.168.161.1|persist|pub|-1|981929e63f6ef8995eec392d77ce0d5a
+2020-05-18 17:06:32,892|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589792792873|192.168.161.1|notify|ok|18|192.168.161.1:8848
+2020-05-18 17:06:32,971|192.168.161.1|cloudalibaba-sentinel-service|DEFAULT_GROUP|null|null|1589792792873|192.168.161.1|dump|ok|98|218

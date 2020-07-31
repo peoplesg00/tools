@@ -1,0 +1,170 @@
+2020-07-29 12:10:38,685 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 12:10:38,690 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.174.1:8091_true,
+
+2020-07-29 12:15:07,778 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-DEAD} cluster: default, dead ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 12:15:07,778 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 
+
+2020-07-29 12:18:36,675 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 12:18:36,675 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.174.1:8091_true,
+
+2020-07-29 12:24:39,094 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-DEAD} cluster: default, dead ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 12:24:39,094 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 
+
+2020-07-29 12:52:32,438 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 12:52:32,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.174.1:8091_true,
+
+2020-07-29 12:57:47,222 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:2003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 12:57:47,222 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.161.1:2003_true,
+
+2020-07-29 12:57:47,223 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.161.1:2003_true,
+
+2020-07-29 12:58:27,237 INFO {POS} {IP-DISABLED} valid: 192.168.161.1:2003@DEFAULT@DEFAULT_GROUP@@seata-account-service, region: unknown, msg: client timeout after 15000, last beat: 1595998687245
+
+2020-07-29 12:58:42,527 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:2003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-07-29 12:58:42,527 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 
+
+2020-07-29 13:17:29,230 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:2003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 13:17:29,230 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.161.1:2003_true,
+
+2020-07-29 13:17:29,231 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.161.1:2003_true,
+
+2020-07-29 13:34:28,068 INFO {POS} {IP-DISABLED} valid: 192.168.161.1:2003@DEFAULT@DEFAULT_GROUP@@seata-account-service, region: unknown, msg: client timeout after 15000, last beat: 1596000850303
+
+2020-07-29 13:34:43,074 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:2003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-07-29 13:34:43,074 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 
+
+2020-07-29 13:37:36,286 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-DEAD} cluster: default, dead ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 13:37:36,286 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 
+
+2020-07-29 13:37:55,002 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 13:37:55,002 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.174.1:8091_true,
+
+2020-07-29 13:38:08,181 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:2003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 13:38:08,181 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.161.1:2003_true,
+
+2020-07-29 13:38:08,183 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.161.1:2003_true,
+
+2020-07-29 13:38:43,105 INFO {POS} {IP-DISABLED} valid: 192.168.161.1:2003@DEFAULT@DEFAULT_GROUP@@seata-account-service, region: unknown, msg: client timeout after 15000, last beat: 1596001103196
+
+2020-07-29 13:38:58,113 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:2003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-07-29 13:38:58,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 
+
+2020-07-29 15:17:23,839 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-DEAD} cluster: default, dead ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 15:17:23,840 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 
+
+2020-07-29 15:20:22,555 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 15:20:22,555 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.174.1:8091_true,
+
+2020-07-29 15:58:55,929 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 15:58:55,929 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.161.1:9002_true,
+
+2020-07-29 15:58:55,931 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 192.168.161.1:9002_true,
+
+2020-07-29 15:59:35,934 INFO {POS} {IP-DISABLED} valid: 192.168.161.1:9002@DEFAULT@DEFAULT_GROUP@@nacos-provider, region: unknown, msg: client timeout after 15000, last beat: 1596009555956
+
+2020-07-29 15:59:50,944 INFO DEFAULT_GROUP@@nacos-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:9002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-07-29 15:59:50,944 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-provider, ips: 
+
+2020-07-29 16:18:50,496 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:2003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 16:18:50,496 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.161.1:2003_true,
+
+2020-07-29 16:18:50,496 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.161.1:2003_true,
+
+2020-07-29 16:18:56,573 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 16:18:56,573 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.161.1:2001_true,
+
+2020-07-29 16:18:56,574 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 16:18:56,574 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.161.1:2001_true,
+
+2020-07-29 16:18:56,577 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.161.1:2001_true,
+
+2020-07-29 16:18:56,578 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 16:18:56,578 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 192.168.161.1:2001_true,
+
+2020-07-29 16:18:59,198 INFO DEFAULT_GROUP@@seata-storage-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:2002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 16:18:59,198 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-storage-service, ips: 192.168.161.1:2002_true,
+
+2020-07-29 16:18:59,200 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-storage-service, ips: 192.168.161.1:2002_true,
+
+2020-07-29 16:19:54,768 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:2003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 16:19:54,768 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 
+
+2020-07-29 16:19:54,845 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 16:19:54,845 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 
+
+2020-07-29 16:19:54,845 INFO DEFAULT_GROUP@@seata-order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 16:19:54,845 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-order-service, ips: 
+
+2020-07-29 16:19:54,941 INFO DEFAULT_GROUP@@seata-storage-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:2002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-29 16:19:54,941 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-storage-service, ips: 
+
+2020-07-29 16:20:44,628 INFO {POS} {IP-DISABLED} valid: 192.168.174.1:8091@default@DEFAULT_GROUP@@serverAddr, region: unknown, msg: client timeout after 15000, last beat: 1596010829021
+
+2020-07-29 16:20:59,637 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-DEAD} cluster: default, dead ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_false_false_default]
+
+2020-07-29 16:20:59,637 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 
+
+2020-07-29 16:29:45,351 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 16:29:45,351 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.174.1:8091_true,
+
+2020-07-29 16:32:56,490 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-DEAD} cluster: default, dead ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 16:32:56,490 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 
+
+2020-07-29 16:33:04,663 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 16:33:04,663 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.174.1:8091_true,
+
+2020-07-29 16:55:31,812 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-DEAD} cluster: default, dead ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 16:55:31,813 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 
+
+2020-07-29 16:57:52,289 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 16:57:52,289 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.174.1:8091_true,
+
+2020-07-29 17:04:39,021 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-DEAD} cluster: default, dead ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 17:04:39,021 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 
+
+2020-07-29 17:04:48,725 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.174.1:8092:unknown:default_1.0_true_false_default]
+
+2020-07-29 17:04:48,726 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.174.1:8092_true,
+
+2020-07-29 17:24:15,498 INFO {POS} {IP-DISABLED} valid: 192.168.174.1:8092@default@DEFAULT_GROUP@@serverAddr, region: unknown, msg: client timeout after 15000, last beat: 1596014638787
+
+2020-07-29 17:24:30,511 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-DEAD} cluster: default, dead ips size: 1, content: [192.168.174.1:8092:unknown:default_1.0_false_false_default]
+
+2020-07-29 17:24:30,511 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 
+
+2020-07-29 17:34:32,276 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.174.1:8091:unknown:default_1.0_true_false_default]
+
+2020-07-29 17:34:32,276 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.174.1:8091_true,
+

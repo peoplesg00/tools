@@ -1,0 +1,74 @@
+2020-07-30 12:58:34,456 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-07-30 13:08:45,626 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-07-30 13:09:00,887 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-07-30 13:32:45,341 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 13:33:30,366 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 13:33:45,375 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 13:34:05,581 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 13:34:45,379 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 13:35:00,389 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 13:36:46,136 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-07-30 13:36:59,298 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 13:55:05,838 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 13:55:20,845 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 14:16:22,134 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 14:21:01,839 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 14:21:16,851 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-30 14:31:06,197 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-07-30 14:32:11,202 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-07-30 14:32:15,778 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-07-30 14:32:51,210 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-07-30 14:33:06,299 INFO DEFAULT_GROUP@@nacos-provider is changed, add it to push queue.
+
+2020-07-30 14:37:48,623 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-07-30 14:38:03,633 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-07-30 14:39:09,168 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-07-30 14:41:44,555 INFO DEFAULT_GROUP@@account-provider is changed, add it to push queue.
+
+2020-07-30 14:42:29,370 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-07-30 14:42:37,308 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-07-30 14:43:23,640 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+
+2020-07-30 14:43:29,044 INFO DEFAULT_GROUP@@gateway-provider is changed, add it to push queue.
+
+2020-07-30 14:44:14,411 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-07-30 14:44:18,647 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+
+2020-07-30 14:44:19,052 INFO DEFAULT_GROUP@@gateway-provider is changed, add it to push queue.
+
+2020-07-30 14:44:19,629 INFO DEFAULT_GROUP@@account-provider is changed, add it to push queue.
+
+2020-07-30 14:44:29,418 INFO DEFAULT_GROUP@@user-provider is changed, add it to push queue.
+
+2020-07-30 14:44:33,666 INFO DEFAULT_GROUP@@nacos-consumer is changed, add it to push queue.
+
+2020-07-30 14:44:34,055 INFO DEFAULT_GROUP@@gateway-provider is changed, add it to push queue.
+
+2020-07-30 14:44:34,633 INFO DEFAULT_GROUP@@account-provider is changed, add it to push queue.
+

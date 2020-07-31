@@ -1,0 +1,36 @@
+2020-07-31 17:16:02,656 INFO DEFAULT_GROUP@@nacos-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-31 17:16:02,660 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.161.1:8001_true,
+
+2020-07-31 17:16:02,662 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 192.168.161.1:8001_true,
+
+2020-07-31 17:16:06,967 INFO DEFAULT_GROUP@@account-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:9006:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-31 17:16:06,967 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@account-provider, ips: 192.168.161.1:9006_true,
+
+2020-07-31 17:16:10,648 INFO DEFAULT_GROUP@@gateway-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:7001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-31 17:16:10,648 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-provider, ips: 192.168.161.1:7001_true,
+
+2020-07-31 17:16:16,282 INFO DEFAULT_GROUP@@user-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.161.1:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-31 17:16:16,284 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-provider, ips: 192.168.161.1:9004_true,
+
+2020-07-31 17:16:16,284 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-provider, ips: 192.168.161.1:9004_true,
+
+2020-07-31 17:16:37,271 INFO DEFAULT_GROUP@@account-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:9006:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-31 17:16:37,272 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@account-provider, ips: 
+
+2020-07-31 17:16:37,862 INFO DEFAULT_GROUP@@user-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-31 17:16:37,862 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-provider, ips: 
+
+2020-07-31 17:16:38,499 INFO DEFAULT_GROUP@@gateway-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:7001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-31 17:16:38,499 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-provider, ips: 
+
+2020-07-31 17:16:39,070 INFO DEFAULT_GROUP@@nacos-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.161.1:8001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-31 17:16:39,071 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-consumer, ips: 
+
